@@ -52,6 +52,10 @@ for Yao in range(1,7):
         Bian_Yao.append(Yao)
     else:
         Bian_Gua.append(i)
+        
+if len(Bian_Yao) >0:
+    print("Bian Gua:{}, Bian Yao:{}".format(Bian_Gua, Bian_Yao))
+else:
+    print("No Bian Gua")
 
-print("Bian Gua:{}, Bian Yao:{}".format(Bian_Gua, Bian_Yao))
 
