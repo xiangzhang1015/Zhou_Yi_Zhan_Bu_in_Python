@@ -1,6 +1,8 @@
 # 周易占卜 in Python
 
-#### Authors: [Xiang Zhang](http://xiangzhang.info/) (xiang_zhang@hms.harvard.edu)
+<font color=#ffffff>2022年于月光之下，云海之上。</font>
+
+#### Authors: [Xiang Zhang](http://xiangzhang.info/) (xiang.alan.zhang@gmail.com)
 
 ## 概述
 传统的周易占卜需要五十或五十五根蓍草，且费时费力。三变为一爻，六爻为一卦，常常需要一个小时才能得出结果。本项目以Python程序模拟蓍草占卜过程，一秒钟即可得到本卦、变卦、变爻等卦象，极为简单便捷。更为重要的是，各个卦象出现的概率与用蓍草占卜的概率相同。总之，周易占卜的Python实现极大的提高的占卜的效率却不影响结论的准确程度，实在是居家旅行的必备神器。
