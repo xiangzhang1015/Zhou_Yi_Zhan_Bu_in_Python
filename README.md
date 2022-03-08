@@ -1,6 +1,5 @@
 # 周易占卜 in Python
 
-<font color=#ffffff>2022年于月光之下，云海之上。</font>
 
 #### Authors: [Xiang Zhang](http://xiangzhang.info/) (xiang.alan.zhang@gmail.com)
 
@@ -52,6 +51,9 @@
 ```
 python Zhan_Bu.py
 ```
+代码会生成 一个list 代表本卦。List中的6个elements分别代表6爻 （自下而上）。其中6， 7， 8， 9分别代表老阴、少阳、少阴、老阳。
+
+如果需要变卦，code会同时输出一个变卦的list和一个代表变爻的list。
 
 ## Requirements 
 
@@ -73,4 +75,5 @@ Please send any questions you might have about the code and/or the algorithm to 
 
 This Zhan Bu program is licensed under the MIT License.
 
+<font color=#ffffff>2022年于月光之下，云海之上。</font>
 
