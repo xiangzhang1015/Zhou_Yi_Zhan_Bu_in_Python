@@ -86,5 +86,4 @@ This Zhan Bu program is licensed under the MIT License.
 ## Version 2.0
 
 更新自动解卦功能。解卦示例如下：
-![解卦示例: 同人之革。 上九，同人于郊，无悔。]([URL_OF_THE_IMAGE](https://github.com/xiangzhang1015/Zhou_Yi_Zhan_Bu_in_Python/blob/main/Python%E8%A7%A3%E5%8D%A6%E7%A4%BA%E4%BE%8B.png)https://github.com/xiangzhang1015/Zhou_Yi_Zhan_Bu_in_Python/blob/main/Python%E8%A7%A3%E5%8D%A6%E7%A4%BA%E4%BE%8B.png)
-
+![解卦示例: 同人之革。 上九，同人于郊，无悔。](Python解卦示例.png)
