@@ -86,4 +86,7 @@ This Zhan Bu program is licensed under the MIT License.
 ## Version 2.0
 
 更新自动解卦功能。解卦示例如下：
+
 ![解卦示例: 同人之革。 上九，同人于郊，无悔。](Python解卦示例.png)
+
+<font color=#ffffff>2023年10月8日</font>
